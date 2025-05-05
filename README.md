@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 🎲 Fun fact: I'm an avid fan of anime and manga, with a collection that rivals a small library. When I'm not immersed in fictional worlds, you'll find me cheering for my favorite football team on game days!
 
 -->
+
+## i Code with 
+
+javascript logo  typescript logo  react logo  nextjs logo  nodejs logo  express logo  php logo  laravel logo  vuejs logo  nuxtjs logo  go logo  postgresql logo  mysql logo  mongodb logo  firebase logo  appwrite logo
