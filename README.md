@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**farlilumula/farlilumula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Farly Cahyadi Lumula, a passionate Software Engineer hailing from Gorontalo, Indonesia. With a keen interest in crafting efficient and scalable software solutions, I'm dedicated to pushing the boundaries of technology and making a positive impact through code. Let's collaborate, innovate, and build the future together! 💻🚀
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+## About Me 👋
+<!--
+
+✨ Crafting code with care, debugging with determination, and evolving with every error.
+
+📚 I'm currently immersing myself in the world of blockchain technology and exploring its potential to revolutionize various industries.
+
+🎯 Goals: To architect scalable and secure software solutions that prioritize user privacy and data protection, contributing to a safer digital ecosystem.
+
+🎲 Fun fact: I'm an avid fan of anime and manga, with a collection that rivals a small library. When I'm not immersed in fictional worlds, you'll find me cheering for my favorite football team on game days!
+
 -->
