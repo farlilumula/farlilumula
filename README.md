@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 I'm Farly Cahyadi Lumula, a passionate Software Engineer hailing from Gorontalo, Indonesia. With a keen interest in crafting efficient and scalable software solutions, I'm dedicated to pushing the boundaries of technology and making a positive impact through code. Let's collaborate, innovate, and build the future together! 💻🚀
 
 Here are some ideas to get you started:
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 
 ## About Me 👋
 <!--
