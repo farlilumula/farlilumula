@@ -29,6 +29,4 @@ Here are some ideas to get you started:
 
 -->
 
-## i Code with 
 
-javascript logo  typescript logo  react logo  nextjs logo  nodejs logo  express logo  php logo  laravel logo  vuejs logo  nuxtjs logo  go logo  postgresql logo  mysql logo  mongodb logo  firebase logo  appwrite logo
